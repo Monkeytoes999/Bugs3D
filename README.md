@@ -15,6 +15,18 @@ A totally original idea that isn't just an evolution of an evolution of one of m
 
 Patch Notes
 
+v0.0.3
+  - Rewrote a majority of the systems into a way that I understand it.
+  - Added functionality for better and faster future updates of stuff.
+  - Changed the way Roachees do damage! More consistent with actual games.
+  - Stole some assets from somebody who game me assets to do steal.
+  - Walls? Those sure are... walls I guess.
+  - Made the game start full screen... and not be able to be minimized.
+  - Added a way to quit the game - that's kinda important.
+  - You start on the menu screen now!
+  - Added volume slider.
+  - Probably a few other things that I don't quite remember.
+
 v0.0.2
   - Added some color to the blobs.
   - Made a file in SolidWorks.
