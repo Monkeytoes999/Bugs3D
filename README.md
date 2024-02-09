@@ -15,6 +15,22 @@ A totally original idea that isn't just an evolution of an evolution of one of m
 
 Patch Notes
 
+v0.0.4
+  - Removed some unneccesary menu pages.
+  - On death:
+     - Everything now freezes.
+     - You can still look around.
+     - The restart / menu buttons pop up immediately.
+  - Added in title music!
+  - Bullet sound is now played on shoot, not bullet contact.
+  - Made the walls feel more organized. 
+  - Added in a couple ramps -- they're a bit buggy in terms of enemy behavior.
+  - Enemies are no longer tied to spawning to you, they can spawn anywhere on the map.
+  - Added slight difficulty scaling. Every thirty seconds:
+     - Enemies spawn faster 2s -> 1s -> 2/3s...
+     - There's higher enemy limit 15 -> 30 -> 45...
+  - The bugs! They wiggle!
+
 v0.0.3
   - Rewrote a majority of the systems into a way that I understand it.
   - Added functionality for better and faster future updates of stuff.
